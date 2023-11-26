@@ -630,6 +630,106 @@ video {
   margin-top: 440vw;
 }
 
+.mt-\[50vw\] {
+  margin-top: 50vw;
+}
+
+.mt-\[500vw\] {
+  margin-top: 500vw;
+}
+
+.mt-\[700vw\] {
+  margin-top: 700vw;
+}
+
+.mt-\[0vw\] {
+  margin-top: 0vw;
+}
+
+.mt-\[500\%\] {
+  margin-top: 500%;
+}
+
+.mt-\[900\%\] {
+  margin-top: 900%;
+}
+
+.mt-\[970\%\] {
+  margin-top: 970%;
+}
+
+.mt-\[40vw\] {
+  margin-top: 40vw;
+}
+
+.mt-\[70vw\] {
+  margin-top: 70vw;
+}
+
+.mt-\[200vw\] {
+  margin-top: 200vw;
+}
+
+.mt-\[400vw\] {
+  margin-top: 400vw;
+}
+
+.mt-\[600vw\] {
+  margin-top: 600vw;
+}
+
+.mt-\[580vw\] {
+  margin-top: 580vw;
+}
+
+.mt-\[560vw\] {
+  margin-top: 560vw;
+}
+
+.mt-\[30vw\] {
+  margin-top: 30vw;
+}
+
+.ml-\[10vw\] {
+  margin-left: 10vw;
+}
+
+.ml-\[20\%\] {
+  margin-left: 20%;
+}
+
+.ml-\[30\%\] {
+  margin-left: 30%;
+}
+
+.ml-\[0\] {
+  margin-left: 0;
+}
+
+.mr-\[10\%\] {
+  margin-right: 10%;
+}
+
+.mr-\[20\%\] {
+  margin-right: 20%;
+}
+
+.mt-\[495vw\] {
+  margin-top: 495vw;
+}
+
+.mt-\[480vw\] {
+  margin-top: 480vw;
+}
+
+.mt-\[460vw\] {
+  margin-top: 460vw;
+}
+
+.mt-\[430vw\] {
+  margin-top: 430vw;
+}
+
 .flex {
   display: flex;
 }
@@ -978,6 +1078,26 @@ video {
   width: 72vw;
 }
 
+.w-\[68vw\] {
+  width: 68vw;
+}
+
+.w-\[73vw\] {
+  width: 73vw;
+}
+
+.w-\[65vw\] {
+  width: 65vw;
+}
+
+.w-\[66vw\] {
+  width: 66vw;
+}
+
+.w-\[62vw\] {
+  width: 62vw;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -1225,6 +1345,18 @@ video {
   font-size: 1.5vh;
 }
 
+.text-\[4vh\] {
+  font-size: 4vh;
+}
+
+.text-\[7vh\] {
+  font-size: 7vh;
+}
+
+.text-\[2\.2vh\] {
+  font-size: 2.2vh;
+}
+
 .font-black {
   font-weight: 900;
 }
@@ -1235,6 +1367,10 @@ video {
 
 .font-semibold {
   font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .text-\[red\] {
@@ -1279,6 +1415,12 @@ video {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+@media (min-width: 640px) {
+  .sm\:flex {
+    display: flex;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1536,6 +1678,22 @@ video {
 
   .md\:w-\[19vw\] {
     width: 19vw;
+  }
+
+  .md\:w-\[20vw\] {
+    width: 20vw;
+  }
+
+  .md\:w-\[22vw\] {
+    width: 22vw;
+  }
+
+  .md\:w-\[12vw\] {
+    width: 12vw;
+  }
+
+  .md\:w-\[27vw\] {
+    width: 27vw;
   }
 
   .md\:flex-row {
